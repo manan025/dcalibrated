@@ -1,16 +1,16 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "dcalibrated"
+title_right   : "mind" # default: ""
+description   : "Thoughts Unfold. Some are written. Some are interesting. Maybe."
+keywords      : "dcalibrated mind, manan raina kumar, mrkr.me, mrkr, technical, blog, manan's blog, personal"
+url           : https://dcalibrated.mrkr.me # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
+twitter_username  : "MananRKumar"
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : "dcalibrated"
 postshare_enabled : false
 
 # Build settings
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Manan R. Kumar"
 
 plugins:
   - jekyll-sitemap

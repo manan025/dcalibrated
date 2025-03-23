@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "How to Download or Use This Theme"
-comments: true
+comments: false
 description: "How to Download or Use This Theme"
 keywords: "dummy content"
+published: false
 ---
 
 ### Use this theme as you main site
