@@ -5,7 +5,7 @@ description   : "Thoughts Unfold. Some are written. Some are interesting. Maybe.
 keywords      : "dcalibrated mind, manan raina kumar, mrkr.me, mrkr, technical, blog, manan's blog, personal"
 url           : https://dcalibrated.mrkr.me # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+cover         : "https://mrkr.me/profile.png" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : "MananRKumar"

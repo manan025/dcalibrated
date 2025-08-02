@@ -10,3 +10,8 @@ gem 'tzinfo'
 gem 'tzinfo-data'
 
 gem "webrick", "~> 1.9"
+
+# Required for Ruby 3.4+
+gem 'csv'
+gem 'logger'
+gem 'base64'
