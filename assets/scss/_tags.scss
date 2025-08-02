@@ -1,0 +1,19 @@
+$tag-colors: (
+  "technical": #f26227,
+  "personal": #e3e3e3
+);
+
+.tag {
+  color: #fff;
+  margin: 1px;
+  padding: 1px 3px;
+  border-radius: 3px;
+  background-color: grey;
+
+  @each $id, $color in $tag-colors {
+    &[id="#{$id}"] {
+      background-color: $color;
+      color: if($id == "personal", #000, #fff);
+    }
+  }
+}
