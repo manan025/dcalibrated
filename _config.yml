@@ -13,7 +13,7 @@ comments_enabled  : true # if enabled (set to true), please provide your disqus_
 disqus_shortname  : "dcalibrated"
 postshare_enabled : false
 
-future : false
+future : true
 
 # Build settings
 permalink   : /:year/:title/
