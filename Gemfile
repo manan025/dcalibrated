@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 gemspec
+
+gem "jekyll-sass-converter", "~> 3.0"
+
 group :jekyll_plugins do
     gem "jekyll-sitemap"
     gem "bourbon"
